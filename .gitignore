@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-1/
+
+# 出力フォルダ（大量のJPEGをコミットしないため）
+output/
