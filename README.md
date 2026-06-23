@@ -4,6 +4,12 @@ ffmpeg を使って動画からフレーム画像を切り出すための Python
 
 ## 使い方
 
+### Extractor GUI
+
+```powershell
+python extractor_gui.py
+```
+
 ### 1. ffmpeg をインストールする
 PowerShell を開き、次を実行します。
 
